@@ -1,0 +1,2 @@
+[Tue Jan 30 09:39:22.007746 2024] [fcgid:warn] [pid 9272:tid 1344] [client ::1:51075] mod_fcgid: read timeout from pipe, referer: http://localhost:10011/wp-admin/theme-install.php?browse=popular
+[Tue Jan 30 09:39:22.007746 2024] [core:error] [pid 9272:tid 1344] [client ::1:51075] End of script output before headers: admin-ajax.php, referer: http://localhost:10011/wp-admin/theme-install.php?browse=popular
